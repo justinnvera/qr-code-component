@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com](https://qr-code-component-henna.vercel.app))
-- Live Site URL: [Add live site URL here](https://www.frontendmentor.io/solutions/qrcode-component-html-and-css-flexbox-hekpgn02C8)
+- Solution URL: [https://www.frontendmentor.io/solutions/qrcode-component-html-and-css-flexbox-hekpgn02C8]
+- Live Site URL: [https://qr-code-component-henna.vercel.app]
 
 ### Built with
 
