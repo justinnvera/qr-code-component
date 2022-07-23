@@ -14,18 +14,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Continued development](#continued-development)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.ppg)
+![](screenshot.ppg)
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qrcode-component-html-and-css-flexbox-hekpgn02C8]
-- Live Site URL: [https://qr-code-component-henna.vercel.app]
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qrcode-component-html-and-css-flexbox-hekpgn02C8)
+- Live Site URL: [Vercel](https://qr-code-component-henna.vercel.app)
 
 ### Built with
 
